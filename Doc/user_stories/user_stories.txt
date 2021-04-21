@@ -1,0 +1,10 @@
+1. Como um jornalista, eu quero saber quantos trabalhadores perderam seu emprego durante a pandemia.
+2. Como um jornalista, eu quero saber quantos trabalhadores conseguiram emprego durante a pandemia.
+3. Como um jornalista, eu quero saber quantos CNPJ's foram criados durante a pandemia.
+4. Como um jornalista, eu quero obter um grafico que mostre as regiões que mais fecharam postos de trabalho durante a pandemia.
+5. Como um jornalista, eu quero visualizar a raça dos trabalhadores que perderam seu emprego durante a pandemia.
+6. Como um jornalista, eu quero visualizar o grau de instrução dos trabalhadores que perderam seu emprego durante a pandemia.
+7. Como um jornalista, eu quero obter um grafico que classifique as ocupações em que mais houveram demissões durante a pandemia.
+8. Como um jornalista, eu quero obter um grafico que classifique as ocupações em que mais houveram admissões durante a pandemia.
+9. Como um jornalista, eu quero visualizar o sexo dos trabalhadores que perderam seu emprego durante a pandemia.
+10. Como um jornalista, eu quero obter um grafico que classifique as àreas que mais demitiram durante a pandemia.
