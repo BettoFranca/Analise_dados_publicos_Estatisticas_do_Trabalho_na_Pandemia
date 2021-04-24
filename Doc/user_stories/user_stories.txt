@@ -1,0 +1,10 @@
+1. Como um jornalista, eu quero saber quantos trabalhadores perderam seu emprego em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+2. Como um jornalista, eu quero saber quantos trabalhadores conseguiram emprego em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+3. Como um jornalista, eu quero saber quantos CNPJ's foram criados em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+4. Como um jornalista, eu quero obter um grafico que mostre as regiões que mais fecharam postos de trabalho em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+5. Como um jornalista, eu quero visualizar a raça dos trabalhadores que perderam seu emprego em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+6. Como um jornalista, eu quero visualizar o grau de instrução dos trabalhadores que perderam seu emprego em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+7. Como um jornalista, eu quero obter um grafico que classifique as ocupações em que mais houveram demissões em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+8. Como um jornalista, eu quero obter um grafico que classifique as ocupações em que mais houveram admissões em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+9. Como um jornalista, eu quero visualizar o sexo dos trabalhadores que perderam seu emprego em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
+10. Como um jornalista, eu quero obter um grafico que classifique as àreas que mais demitiram em Janeiro/2021, comparando estados de maior restrição devido a pandemia com os de menor restrição no periodo.
