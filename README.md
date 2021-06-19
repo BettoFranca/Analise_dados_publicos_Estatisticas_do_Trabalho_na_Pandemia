@@ -3,7 +3,9 @@ Trabalho para a Disciplina de Estruturas de Dados, professor Masanori
 
 Bases de dados:
 
-Arquivos CAGED Movimentações disponíveis em (Acesso por Internet Explore): ftp://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2021/Abril/
+Arquivos CAGED Movimentações disponíveis em (Acesso por Internet Explorer): ftp://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2021/Abril/
+
+Arquivo PNAD disponível em (Acesso por Internet Explorer): ftp://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_PNAD_COVID19/Mensal/Tabelas/pnad_covid19_202011_trabalho_BR_GR_UF.xlsx
 
 1 – Qual foi o índice de pessoas empregadas e desempregadas em certo período, categorizadas por: 
 
