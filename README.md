@@ -25,7 +25,7 @@ Jupyter Notebook
 2. Adicionar o python as [variáveis de ambiente](https://datatofish.com/add-python-to-windows-path/)
 3. Clonar esse repositório 
 ```
-git clone https://github.com/kevingabrielmelo/Analise-de-estatisticas-do-trabalho-caged
+git clone https://github.com/BettoFranca/Analise_dados_publicos_Estatisticas_do_Trabalho_na_Pandemia.git
 ```
 4. Entrar na pasta do repositório (pelo cmd ou terminal) e instalar as dependências
 
