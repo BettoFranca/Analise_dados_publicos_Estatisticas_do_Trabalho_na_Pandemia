@@ -6,7 +6,7 @@ Este repositório tem por finalidade fazer um tratamento de dados relacionados a
 
 # Fonte dos dados:
 1. [Arquivos CAGED Movimentações disponíveis em (Acesso por Internet Explorer):](https://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2021/Abril/)
-2. [Arquivo PNAD disponível em (Acesso por Internet Explorer):](https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_PNAD_COVID19/Mensal/Tabelas/pnad_covid19_202011_trabalho_BR_GR_UF.xlsx)
+2. [Arquivo PNAD disponível em:](https://github.com/BettoFranca/Analise_dados_publicos_Estatisticas_do_Trabalho_na_Pandemia/blob/main/Documentos/bases_de_dados/pnad_covid19_202011_trabalho_BR_GR_UF.xlsx)
 3. [Novo CAGED - Janeiro de 2021](http://pdet.mte.gov.br/novo-caged/novo-caged-2021/novo-caged-janeiro-2021)
 
 # User Stories
