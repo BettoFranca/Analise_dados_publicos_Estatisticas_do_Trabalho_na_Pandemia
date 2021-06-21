@@ -1,42 +1,40 @@
-# Analise_dados_publicos_Estatisticas_do_Trabalho_na_Pandemia
-Trabalho para a Disciplina de Estruturas de Dados, professor Masanori
+# Análise de estatíscas do trabalho CAGED 2020 e 2021.
+Este repositório tem por finalidade fazer um tratamento de dados relacionados as estatísticas do trabalho em 2020 / 2021, de acordo com os itens listados nos User Stories. 
 
-Bases de dados:
+# Autores:
+[Daniel Vargas Ribeiro](https://github.com/DanVargaa/), [Edryan Matheus](https://github.com/edryan25/), [José Alberto](https://github.com/BettoFranca/), [Kevin Gabriel Alves de Melo](https://github.com/kevingabrielmelo/) e [Luiz Miguel Macedo Andre](https://github.com/Salitop/)
 
-Arquivos CAGED Movimentações disponíveis em (Acesso por Internet Explorer): ftp://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2021/Abril/
+# Fonte dos dados:
+1. [Arquivos CAGED Movimentações disponíveis em (Acesso por Internet Explorer):](https://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2021/Abril/)
+2. [Arquivo PNAD disponível em (Acesso por Internet Explorer):](https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_PNAD_COVID19/Mensal/Tabelas/pnad_covid19_202011_trabalho_BR_GR_UF.xlsx)
+3. [Novo CAGED - Janeiro de 2021](http://pdet.mte.gov.br/novo-caged/novo-caged-2021/novo-caged-janeiro-2021)
 
-Arquivo PNAD disponível em (Acesso por Internet Explorer): ftp://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_PNAD_COVID19/Mensal/Tabelas/pnad_covid19_202011_trabalho_BR_GR_UF.xlsx
+# User Stories
+![User Stories](https://github.com/BettoFranca/Analise_dados_publicos_Estatisticas_do_Trabalho_na_Pandemia/blob/main/Documentos/user_stories/user_stories.png)
 
-1 – Qual foi o índice de pessoas empregadas e desempregadas em certo período, categorizadas por: 
+# Rodando a aplicação
 
-	- Gênero (De acordo com dados do PNAD)
-  
-  ![image](https://user-images.githubusercontent.com/65745425/122656604-80898c00-d132-11eb-887c-6f0f05c4faa1.png)
-  
-  ![image](https://user-images.githubusercontent.com/65745425/122656630-c9414500-d132-11eb-85f7-08e59fa5f1f3.png)
+### Requisitos
+Python 3.8 +
+Pandas
+Matplotlib
+Jupyter Notebook
 
- 	- Faixa Etária  (De acordo com dados do PNAD)
-  
-  ![image](https://user-images.githubusercontent.com/65745425/122656649-f1c93f00-d132-11eb-9765-c86de3e16a60.png)
+## Instalando
+1. Baixar e instalar o Python 3.8.x pelo [site oficial](https://www.python.org/downloads/)
+2. Adicionar o python as [variáveis de ambiente](https://datatofish.com/add-python-to-windows-path/)
+3. Clonar esse repositório 
+```
+git clone https://github.com/kevingabrielmelo/Analise-de-estatisticas-do-trabalho-caged
+```
+4. Entrar na pasta do repositório (pelo cmd ou terminal) e instalar as dependências
 
-![image](https://user-images.githubusercontent.com/65745425/122656651-f7bf2000-d132-11eb-9ccc-9e88a1812ea9.png)
+```
+pip install -r requirements.txt
+```
+5. Executar o Jupyter Notebook
+```
+jupyter notebook
+```
 
-	- Nível de escolaridade  (De acordo com dados do PNAD)
-
-![image](https://user-images.githubusercontent.com/65745425/122656658-0a395980-d133-11eb-815b-73ede63ea935.png)
-
-![image](https://user-images.githubusercontent.com/65745425/122656662-102f3a80-d133-11eb-95d3-a33984f46c78.png)
-
-	- Setores (De acordo com dados do PNAD)
-  
-  ![image](https://user-images.githubusercontent.com/65745425/122656677-2e953600-d133-11eb-91d3-d1b41ec4f183.png)
-
-
-3 - Quero saber a quantidade de admissões/demissões por gênero no período da pandemia.
-(De acordo com dados do CAGED)
-
-![image](https://user-images.githubusercontent.com/65745425/122656707-83d14780-d133-11eb-9d6a-fd7a6b0d4d6c.png)
-
-
-
-
+# Conclusão
