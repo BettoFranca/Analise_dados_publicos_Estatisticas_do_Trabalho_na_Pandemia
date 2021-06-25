@@ -66,7 +66,7 @@ Em nossas análises podemos perceber alguns indicios do quanto a pandemia interf
 <span id="dados">
 
 ## 🗞️ Fonte dos dados:
-1. [Arquivos CAGED Movimentações disponíveis em (Acesso por Internet Explorer):](https://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2021/Abril/)
+1. [Arquivos CAGED Movimentações disponíveis em:](https://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Movimenta%E7%F5es/2021/Abril/)
 2. [Arquivo PNAD disponível em:](https://github.com/BettoFranca/Analise_dados_publicos_Estatisticas_do_Trabalho_na_Pandemia/blob/main/Documentos/bases_de_dados/pnad_covid19_202011_trabalho_BR_GR_UF.xlsx)
 3. [Pesquisa Mensal de Comércio IBGE](https://github.com/BettoFranca/Analise_dados_publicos_Estatisticas_do_Trabalho_na_Pandemia/blob/main/Documentos/bases_de_dados/pmc_202104_05.xls)
   
