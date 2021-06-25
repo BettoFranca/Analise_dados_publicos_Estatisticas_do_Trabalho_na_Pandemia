@@ -130,5 +130,9 @@ Toda a equipe está linkada pelo seu GitHub pessoal, são alunos da Fatec São J
   
 ## 🔎 Conclusão
 
-  
+ Ao realizar esse trabalho, nós percebemos que os homens sempre estão a frente quando se trata de emprego, em um país que tem aproximadamente 51% de mulheres, e 49% de homens, não faz sentido ter tamanha diferença quando o assunto são os empregos. 🤷‍♀️
+Percebe-se também que foram demitidas várias pessoas durante o caos da pandemia em 2020, e somente agora, esse número volta a crescer e o país volta a contratar pessoas. 📑
+Também é notório que os gráficos que mais abaixaram durante a pandemia, foram os das mulheres, ou seja, em uma crise os patrões preferem demitir primeiro as mulheres!
+A questão empregabilidade no Brasil ainda é bem complicada, muitas pessoas sofrem com o desemprego e precisam buscar meios de sobreviver para não passar fome, durante a pandemia isso se alastrou ainda mais, e somente agora, o país vem conseguindo se acertar para voltar ao estágio zero na busca de um país com boa empregabilidade dos habitantes!
+	
  → [Voltar ao topo](#topo) 
