@@ -15,6 +15,8 @@ A análise de estatísticas do trabalho foi feito para exibir ao público as mai
 tais como: Gênero, Classe Social, Setores, Escolaridade e Faixa Etária.
 Em nossas análises podemos perceber alguns indicios do quanto a pandemia interferiu no mercado de trabalho, e como aos poucos o mundo vem voltando ao "novo normal". 🌎
 
+Esse notebook está sendo desenvolvido para a disciplina de "Estrutura de dados", ministrada pelo professor Fernando Masanori, do curso de Análise e Desenvolvimento de Sistemas, no ano de 2021, na FATEC de São José dos Campos - SP.
+
 <span id="userstories">
 
 ## 📰 User Stories
@@ -108,7 +110,7 @@ jupyter notebook
 <span id="equipe">
 	
 ## :busts_in_silhouette: Responsáveis
-Toda a equipe está linkada pelo seu GitHub pessoal, para fácil acesso aos integrantes da equipe. Time Composto por 5 pessoas, são elas: 
+Toda a equipe está linkada pelo seu GitHub pessoal, são alunos da Fatec São José dos Campos que, ministradas pelo professor Fernando Masanori desejam trazer informações reais sobre a empregabilidade no Brasil! Time Composto por 5 pessoas, são elas: 
   
   [Daniel Vargas Ribeiro](https://github.com/DanVargaa/),
   <br>
