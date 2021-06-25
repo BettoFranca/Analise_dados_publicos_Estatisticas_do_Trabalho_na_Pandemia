@@ -112,13 +112,13 @@ Toda a equipe está linkada pelo seu GitHub pessoal, para fácil acesso aos inte
   
   [Daniel Vargas Ribeiro](https://github.com/DanVargaa/),
   <br>
-   [Edryan Matheus](https://github.com/edryan25/)
+   [Edryan Matheus](https://github.com/edryan25/),
   <br>
-  [José Alberto](https://github.com/BettoFranca/)
+  [José Alberto](https://github.com/BettoFranca/),
   <br>
-  [Kevin Gabriel Alves de Melo](https://github.com/kevingabrielmelo/)
+  [Kevin Gabriel Alves de Melo](https://github.com/kevingabrielmelo/),
   <br>
-  [Luiz Miguel Macedo Andre](https://github.com/Salitop/)
+  [Luiz Miguel Macedo Andre](https://github.com/Salitop/).
 
 → [Voltar ao topo](#topo)
 
